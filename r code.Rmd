@@ -1,0 +1,15 @@
+---
+title: "r code"
+author: "h24089014"
+date: "2020/5/5"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+r code h24089014
+```{r}
+1+2+3+4+5+6+4++77
+```
